@@ -8,4 +8,4 @@ Fix the bug so we can all go home early.
 Notes
 String str will never be null.
 
-I went to https://regex101.com/ and tried a similar string.Figured out how to remove all the dots, using the escape charactor and "g" flag. 
+I went to https://regex101.com/ and tried a similar string.Figured out how to remove all the dots, using the escape charactor and "g" flag.   
